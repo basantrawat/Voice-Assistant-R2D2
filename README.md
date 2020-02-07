@@ -1,7 +1,6 @@
 # R2-D2 a Voice Assistant
 
-R2-D2 is a Voice Assistant which can do many of tasks for you.  
-R2-D2 can perform various task for you such as playing music, opening your favourite sites such as Google, YouTube, GitHub and can also search any information on Wikipedia. R2-D2 can also send mail to any person you wanted to. R2-D2 is evolving continuously.
+R2-D2 is a Voice Assistant which can do many things for you. Some of the tasks include playing music, opening your favourite sites such as Google, YouTube, GitHub and Searching any sort of information on Wikipedia for you. R2-D2 can also send emails to any person you wanted to. R2-D2 is Learning and Evolving Continuously.
 
 
 ## Packages Used
